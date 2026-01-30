@@ -1,0 +1,45 @@
+commit 9b987c98e81918472e061db11c46abc9f213273a
+Merge: 3a634c8 1299d43
+Author: Alston Tang <145715945+AlstonTang@users.noreply.github.com>
+Date:   Fri Jan 30 12:32:04 2026 -0800
+
+    Merged the two branches.
+
+commit 1299d43003831901ba9cdac2cf960ea4afed2e8a
+Author: Alston Tang <145715945+AlstonTang@users.noreply.github.com>
+Date:   Fri Jan 30 12:29:37 2026 -0800
+
+    Added my favorite game to the html file.
+
+commit 3a634c8e96addeaa42ffdfc06913be197cb7136f
+Author: Alston Tang <145715945+AlstonTang@users.noreply.github.com>
+Date:   Fri Jan 30 12:28:23 2026 -0800
+
+    Added my favorite food to the html file.
+
+commit 07962e556b1d307eb6f7d22ecb6fafcf5e8dce56
+Author: Alston Tang <145715945+AlstonTang@users.noreply.github.com>
+Date:   Fri Jan 30 12:25:09 2026 -0800
+
+    Added README.md
+
+commit ce3206ff60fa78170597293ffd888cc9211d2bf3
+Merge: 1d2bfc0 cb16dd5
+Author: Alston Tang <145715945+AlstonTang@users.noreply.github.com>
+Date:   Fri Jan 30 12:19:31 2026 -0800
+
+    Merge pull request #1 from AlstonTang/info-fill
+    
+    Merging for Lab 2
+
+commit cb16dd5f0408d554bdd312e76d561a0183864068
+Author: Alston Tang <145715945+AlstonTang@users.noreply.github.com>
+Date:   Fri Jan 30 12:17:34 2026 -0800
+
+    Filled in the two blanks.
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
